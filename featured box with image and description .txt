@@ -1,0 +1,81 @@
+<---------featured box with image & description (odd boxes)
+
+<section class="common-sec serviceBox">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-12">
+<div class="mb-4">
+<h2 class="common-heading"></h2>
+<p></p>
+</div>
+</div>
+</div>
+<!-- featured boxex -->
+<div class="row custom-justify-content-center">
+<!-- First box -->
+<div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+<div class="card"><img class=" lazyloaded" src="/images/" alt="img" width="358" height="289" data-src="/images/">
+<div class="card-content">
+<p class="card-title"></p>
+<p></p>
+</div>
+</div>
+</div>
+<!-- Second box -->
+<div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+<div class="card"><img class=" lazyloaded" src="/images/" alt="img" width="358" height="289" data-src="/images/">
+<div class="card-content">
+<p class="card-title"></p>
+<p></p>
+</div>
+</div>
+</div>
+<!-- Third box -->
+<div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+<div class="card"><img class=" lazyloaded" src="/images/" alt="img" width="358" height="289" data-src="/images/">
+<div class="card-content">
+<p class="card-title"></p>
+<p></p>
+</div>
+</div>
+</div>
+<!-- 4th box -->
+<div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+<div class="card"><img class=" lazyloaded" src="/images/" alt="Blood stain on the carpet" width="358" height="289" data-src="/images/">
+<div class="card-content">
+<p class="card-title"></p>
+<p></p>
+</div>
+</div>
+</div>
+<!-- 5th box -->
+<div class="col-md-6 col-lg-3 mb-5 mb-lg-0 mt-5">
+<div class="card"><img class=" lazyloaded" src="/images/" alt="img" width="358" height="289" data-src="/images/">
+<div class="card-content">
+<p class="card-title"></p>
+<p></p>
+</div>
+</div>
+</div>
+<!-- 6th box -->
+<div class="col-md-6 col-lg-3 mb-5 mb-lg-0 mt-5">
+<div class="card"><img class=" lazyloaded" src="/images/dye-stains-on-carpet-cleaning.jpg" alt="Dye stains on carpet" width="358" height="289" data-src="/images/dye-stains-on-carpet-cleaning.jpg">
+<div class="card-content">
+<p class="card-title"></p>
+<p></p>
+</div>
+</div>
+</div>
+<!-- 7th box -->
+<div class="col-md-6 col-lg-3 mb-5 mb-lg-0 mt-5">
+<div class="card"><img class=" lazyloaded" src="/images/food-falls-on-the-carpet.jpg" alt="Food on the carpet" width="358" height="289" data-src="/images/food-falls-on-the-carpet.jpg">
+<div class="card-content">
+<p class="card-title"></p>
+<p></p>
+</div>
+</div>
+</div>
+<p class="mt-3"></p>
+</div>
+</div>
+</section>

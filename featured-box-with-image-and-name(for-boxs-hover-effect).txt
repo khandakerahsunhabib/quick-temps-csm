@@ -1,0 +1,75 @@
+<------feature box with hover effect------>
+
+<div class="common-sec">
+<div class="container text-center">
+<h3 class="common-heading"></h3>
+<p></p>
+<div class="row mt-5">
+<div class="col-md-6 col-lg-3 mb-5">
+<div class="image-container">
+<img src="/images/" alt="Image 1">
+<div class="image-name"></div>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 mb-5">
+<div class="image-container">
+<img src="/images/" alt="Image 2">
+<div class="image-name"></div>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 mb-5">
+<div class="image-container">
+<img src="/images/" alt="Image 3">
+<div class="image-name"></div>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 mb-5">
+<div class="image-container">
+<img src="/images/" alt="Image 4">
+<div class="image-name"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+/* CSS for Feature boxes */
+
+.image-container {
+      position: relative;
+      overflow: hidden;
+      border-radius: 10px; /* Makes the image circular */
+    }
+
+    .image-container img {
+      width: 100%;
+      height: 230px;
+      transition: transform 0.3s;
+    }
+
+    .image-container:hover img {
+      transform: scale(1.1);
+    }
+
+   .image-name {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      padding: 5px;
+      background-color: rgb(12 102 105 / 70%);
+      color: white;
+      text-align: center;
+      transition: opacity 0.3s;
+      text-transform: uppercase;
+      font-size: 20px;
+      font-weight: 500;
+    }
+
+    .image-container:hover .image-name {
+      background-color: #02bbbe;
+      opacity: 1;
+      transition: ease 0.5s;
+    }
